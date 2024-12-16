@@ -5,17 +5,10 @@ Hallo! Ik ben **Jochem Veerman**, een gepassioneerde softwareontwikkelaar met er
 Hier zijn de talen en technologieën waar ik mee werk:
 
 ### Programmeertalen:
-- **Python**: Voor automatisering, data-analyse en back-end ontwikkeling.
-- **PHP**: Voor server-side scripting en webtoepassingen.
-- **JavaScript (JS)**: Voor dynamische en interactieve front-end ontwikkeling.
-- **HTML**: Voor het bouwen van gestructureerde en semantische webpagina's.
-- **CSS**: Voor het ontwerpen en stylen van moderne, responsieve websites.
+- <img src="https://cdn.iconscout.com/icon/free/png-256/free-python-logo-icon-download-in-svg-png-gif-file-formats--brand-development-tools-pack-logos-icons-226051.png?f=webp&w=256"/> **Python**: Voor automatisering, data-analyse en back-end ontwikkeling.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png?20180502235434"/> **PHP**: Voor server-side scripting en webtoepassingen.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/>* *JavaScript (JS)**: Voor dynamische en interactieve front-end ontwikkeling.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"/> **HTML**: Voor het bouwen van gestructureerde en semantische webpagina's.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Official_CSS_Logo.svg/1024px-Official_CSS_Logo.svg.png"/> **CSS**: Voor het ontwerpen en stylen van moderne, responsieve websites.
 
-<p align='center'>
-    <img src="https://img.shields.io/badge/-PHP-787CB4?style=flat-square&logo=php&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Python-3F76A5?style=flat-square&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-C%20Sharp-68217A?style=flat-square&logo=csharp&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-    <img src="https://img.shields.io/badge/-JavaScript-D89924?style=flat-square&logo=javascript&logoColor=white"/>
-</p>
+
