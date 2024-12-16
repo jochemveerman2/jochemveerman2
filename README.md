@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/guilds/133668347031060480/users/1139167564044447864/banners/a_cf166bbf1fc0f7249654eac72b671a29.gif?size=1024&width=1536&height=0"/>
+<img src="https://cdn.discordapp.com/guilds/133668347031060480/users/1139167564044447864/banners/a_cf166bbf1fc0f7249654eac72b671a29.gif"/>
 
 ## Over mij
 Hallo! Ik ben **Jochem Veerman**, een gepassioneerde softwareontwikkelaar met ervaring in meerdere programmeertalen en technologieën. Ik geniet ervan om creatieve en efficiënte oplossingen te bouwen, of het nu gaat om front-end, back-end of volledige applicaties. Ik ben altijd op zoek naar manieren om mijn kennis uit te breiden en samen te werken aan interessante projecten.
