@@ -1,16 +1,12 @@
-## Hi there 👋
+## Over mij
+Hallo! Ik ben **Jochem Veerman**, een gepassioneerde softwareontwikkelaar met ervaring in meerdere programmeertalen en technologieën. Ik geniet ervan om creatieve en efficiënte oplossingen te bouwen, of het nu gaat om front-end, back-end of volledige applicaties. Ik ben altijd op zoek naar manieren om mijn kennis uit te breiden en samen te werken aan interessante projecten.
 
-<!--
-**jochemveerman2/jochemveerman2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Vaardigheden
+Hier zijn de talen en technologieën waar ik mee werk:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programmeertalen:
+- **Python**: Voor automatisering, data-analyse en back-end ontwikkeling.
+- **PHP**: Voor server-side scripting en webtoepassingen.
+- **JavaScript (JS)**: Voor dynamische en interactieve front-end ontwikkeling.
+- **HTML**: Voor het bouwen van gestructureerde en semantische webpagina's.
+- **CSS**: Voor het ontwerpen en stylen van moderne, responsieve websites.
