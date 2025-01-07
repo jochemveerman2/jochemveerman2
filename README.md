@@ -12,4 +12,4 @@ Hier zijn de talen en technologieën waar ik mee werk:
 - **CSS**: Voor het ontwerpen en stylen van moderne, responsieve websites.
 
 ### Aan het leren:
-- **Java**
+- **Java**: Voor minecraft plugins met SQL en API.
