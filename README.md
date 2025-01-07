@@ -11,4 +11,5 @@ Hier zijn de talen en technologieën waar ik mee werk:
 - **HTML**: Voor het bouwen van gestructureerde en semantische webpagina's.
 - **CSS**: Voor het ontwerpen en stylen van moderne, responsieve websites.
 
-
+### Aan het leren:
+- **Java**
