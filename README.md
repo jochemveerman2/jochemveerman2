@@ -14,4 +14,5 @@ Hier zijn de talen en technologieën waar ik mee werk:
 ### Aan het leren:
 - **Java**: Voor minecraft plugins met SQL en API.
 
-###
+### Statistieken 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jochemveerman2&theme=dark&show_icons=true&hide_border=true&count_private=true) ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jochemveerman2&theme=dark&show_icons=true&hide_border=true&layout=compact) ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=jochemveerman2&theme=dark&hide_border=true)
