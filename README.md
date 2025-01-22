@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=your-github-username&color=orange)
 ## Over mij
 Hallo! Ik ben **Jochem Veerman**, een gepassioneerde softwareontwikkelaar met ervaring in meerdere programmeertalen en technologieën. Ik geniet ervan om creatieve en efficiënte oplossingen te bouwen, of het nu gaat om front-end, back-end of volledige applicaties. Ik ben altijd op zoek naar manieren om mijn kennis uit te breiden en samen te werken aan interessante projecten.
 
