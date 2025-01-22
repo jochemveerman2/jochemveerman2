@@ -6,7 +6,7 @@ Hallo! Ik ben **Jochem Veerman**, een gepassioneerde softwareontwikkelaar met er
 ## Vaardigheden
 Hier zijn de talen en technologieën waar ik mee werk:
 
-### Programmeertalen:
+#### Programmeertalen:
 - **Python**: Voor automatisering, data-analyse en back-end ontwikkeling.
 - **PHP**: Voor server-side scripting en webtoepassingen.
 - **JavaScript (JS)**: Voor dynamische en interactieve front-end ontwikkeling.
