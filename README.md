@@ -13,3 +13,5 @@ Hier zijn de talen en technologieën waar ik mee werk:
 
 ### Aan het leren:
 - **Java**: Voor minecraft plugins met SQL en API.
+
+###
