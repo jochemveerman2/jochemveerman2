@@ -12,9 +12,7 @@ Hier zijn de talen en technologieën waar ik mee werk:
 - **JavaScript (JS)**: Voor dynamische en interactieve front-end ontwikkeling.
 - **HTML**: Voor het bouwen van gestructureerde en semantische webpagina's.
 - **CSS**: Voor het ontwerpen en stylen van moderne, responsieve websites.
-
-### Aan het leren:
-- **Java**: Voor minecraft plugins met SQL en API.
+- **Java**: Voor minecraft plugins met SQL en API's.
 
 ### Statistieken 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jochemveerman2&theme=dark&show_icons=true&hide_border=true&count_private=true) 
