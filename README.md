@@ -15,5 +15,5 @@ Hier zijn de talen en technologieën waar ik mee werk:
 - **Java**: Voor minecraft plugins met SQL en API's.
 
 ### Statistieken 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jochemveerman2&theme=dark&show_icons=true&hide_border=true&count_private=true) 
-![GitHub Stats]([https://github-readme-stats.vercel.app/api/top-langs/?username=jochemveerman2&theme=dark&show_icons=true&hide_border=true&layout=compact](https://camo.githubusercontent.com/686ea7ca68ebb5c0f9a6dd9b5133bfd7386ba7f0825ac40a2176c2e6b8266f5b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6a6f6368656d766565726d616e32267468656d653d6461726b2673686f775f69636f6e733d7472756526686964655f626f726465723d74727565266c61796f75743d636f6d70616374?v)) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jochemveerman2&theme=dark&show_icons=true&hide_border=true&count_private=true?v) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jochemveerman2&theme=dark&show_icons=true&hide_border=true&layout=compact?v)
