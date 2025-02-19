@@ -17,5 +17,5 @@ Hier zijn de talen en technologieën waar ik mee werk:
 ### Statistieken 
 <div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=jochemveerman2&theme=dark&show_icons=true&hide_border=true&count_private=true" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jochemveerman2&theme=dark&show_icons=true&hide_border=true&layout=compact" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jochemveerman2&theme=dark&show_icons=true&hide_border=true&layout=compact" width="380">
 </div>
